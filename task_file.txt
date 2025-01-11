@@ -1,4 +1,4 @@
-- - - - ¿Qué quieres de comer? Pues no sé
+- - - - - ¿Qué quieres de comer? Pues no sé
 .. Tortilla francesa o... Pan con algo... Vale... Bueno pues... Te hago tortilla francesa. Vale...
 
 - ¿Qué quieres de comer? Pues no sé... Tortilla francesa o... Pan con algo... Vale... Bueno pues... Te hago tortilla francesa. Vale...
@@ -8,3 +8,5 @@
 - Necesito crear una tarea para mañana para sacar al perro.
 
 - Necesito crear una tarea para pasado mañana para ir a comprar un ordenador al MediaMarkt.
+
+- ¿Sabes lo que he hecho hoy? He estado programando toda la tarde y me ha llevado bastante rato. ¿Tú qué has hecho?
